@@ -7,3 +7,6 @@ git is master
 ===
 Git is Dev dev
 >>>>>>> dev
+
+
+yes it is
